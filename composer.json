@@ -230,6 +230,7 @@
     "wpackagist-plugin/google-apps-login": "*",
     "wpackagist-plugin/google-sitemap-generator": "*",
     "wpackagist-plugin/intuitive-custom-post-order": "*",
+    "wpackagist-plugin/jetpack": "*",
     "wpackagist-plugin/loginizer": "*",
     "wpackagist-plugin/mw-wp-form": "*",
     "wpackagist-plugin/my-calendar": "*",
