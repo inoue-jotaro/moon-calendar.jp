@@ -126,6 +126,19 @@
     {
       "type": "package",
       "package": {
+        "name": "koodimonni-plugin-language/jetpack-ja",
+        "type": "wordpress-language",
+        "version": "9.3.1",
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/translation/plugin/jetpack/{%version}/ja.zip",
+            "reference": "master"
+            }
+        }
+    },
+    {
+      "type": "package",
+      "package": {
         "name": "koodimonni-plugin-language/mw-wp-form-ja",
         "type": "wordpress-language",
         "version": "4.4.0",
@@ -210,6 +223,7 @@
     "koodimonni-plugin-language/custom-post-type-ui-ja": "*",
     "koodimonni-plugin-language/duplicate-post-ja": "*",
     "koodimonni-plugin-language/google-sitemap-generator-ja": "*",
+    "koodimonni-plugin-language/jetpack-ja": "*",
     "koodimonni-plugin-language/mw-wp-form-ja": "*",
     "koodimonni-plugin-language/my-calendar-ja": "*",
     "koodimonni-plugin-language/tablepress-ja": "*",
