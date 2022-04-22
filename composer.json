@@ -103,7 +103,6 @@
     {
       "type": "package",
       "package": {
-<<<<<<< HEAD
         "name": "koodimonni-plugin-language/google-sitemap-generator-ja",
         "type": "wordpress-language",
         "version": "4.1.1",
@@ -130,8 +129,6 @@
     {
       "type": "package",
       "package": {
-=======
->>>>>>> upstream/master
         "name": "koodimonni-plugin-language/mw-wp-form-ja",
         "type": "wordpress-language",
         "version": "4.4.0",
@@ -202,11 +199,7 @@
     "koodimonni-plugin-language/classic-editor-ja": "*",
     "koodimonni-plugin-language/custom-post-type-ui-ja": "*",
     "koodimonni-plugin-language/duplicate-post-ja": "*",
-<<<<<<< HEAD
-    "koodimonni-plugin-language/google-sitemap-generator-ja": "*",
     "koodimonni-plugin-language/jetpack-ja": "*",
-=======
->>>>>>> upstream/master
     "koodimonni-plugin-language/mw-wp-form-ja": "*",
     "koodimonni-plugin-language/my-calendar-ja": "*",
     "koodimonni-plugin-language/tablepress-ja": "*",
